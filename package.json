@@ -1,0 +1,27 @@
+{
+  "name": "uv-poll",
+  "version": "0.0.1",
+  "description": "It's like UV_POLL_T but javascript",
+  "main": "poller.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reconbot/uv-poll.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reconbot/uv-poll/issues"
+  },
+  "homepage": "https://github.com/reconbot/uv-poll#readme",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "debug": "^2.6.8",
+    "nan": "^2.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
