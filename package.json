@@ -1,6 +1,6 @@
 {
   "name": "uv-poll",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "It's like UV_POLL_T but javascript",
   "main": "poller.js",
   "scripts": {
